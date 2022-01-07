@@ -37,7 +37,7 @@ while(x!=False):
 	elif(inp==8):
 		imgname=input("Enter two image file names  : ").split()
 		mulimgc(imgname[0],imgname[1])
-	elif(inp==9)
+	elif(inp==9):
 		x=False
 	else:
 		print("Wrong Option!!!")
